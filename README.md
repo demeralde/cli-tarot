@@ -12,7 +12,7 @@ A simple CLI tarot deck.
 go install github.com/dspacejs/cli-tarot
 ```
 
-3. Run the script with a link to a song:
+3. Run the script:
 
 ```sh
 cli-tarot
