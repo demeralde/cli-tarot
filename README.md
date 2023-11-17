@@ -9,7 +9,7 @@ A simple CLI tarot deck.
 2. Install the package:
 
 ```sh
-go install github.com/dspacejs/cli-tarot
+go install github.com/demeralde/cli-tarot
 ```
 
 3. Run the script:

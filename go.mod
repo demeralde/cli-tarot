@@ -1,3 +1,3 @@
-module github.com/dspacejs/cli-tarot
+module github.com/demeralde/cli-tarot
 
 go 1.20
